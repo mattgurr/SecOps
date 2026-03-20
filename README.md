@@ -35,7 +35,44 @@ Not sure which cohort fits? Read `/shared/01-career-paths-overview-all-cohorts-s
 
 Every cohort follows the same three‑phase structure:
 
-```text
 Days  1–30 → Explore and orient
 Days 31–60 → Build skills and ship small things
 Days 61–90 → Consolidate, create artifacts, and apply
+
+Within the structure, each cohort has its own:
+
+Intake questions – to understand where you are and what you want.
+
+30‑60‑90 plan template – to give you a concrete, personalised roadmap.
+
+Study and lab guide – focused resources and hands‑on labs for your path.
+
+Quick‑start one‑pager – a single‑page summary you can keep on your desk.
+
+The program assumes 5–10 hours per week of focused effort. It is designed to be realistic around study loads, jobs, and life.
+
+## What the Mentoring Sessions Cover
+
+In each session we will:
+
+* Review your intake questions – where you are, what you want, and what constraints you're working with.
+
+* Check your 30‑60‑90 plan – what's working, what needs adjusting.
+
+* Talk through your labs and projects – what you built, what you learned, what you'd do differently.
+
+* Discuss career paths and roles – what's realistic, what to target next, and how to position your experience.
+
+* Set the next 2–3 weeks of actions – concrete, specific, and achievable.
+
+## Making the Most of This Program
+
+Be honest about constraints. Time, money, family, current job – we'll design your plan around reality.
+
+Document everything. Lab writeups, project notes, and short "what I learned" summaries become your portfolio and your interview stories.
+
+Ask early. If you're stuck on what to do next, that's exactly what this program is for.
+
+Ship small things. A short writeup, a working script, or a hardened VM is better than a perfect plan you never execute.
+
+----- EOF -----
